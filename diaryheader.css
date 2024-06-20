@@ -38,7 +38,7 @@ html, body {
 .main-content {
     display: flex;
     flex: 1 1 auto;
-    height: calc(100% - 50px);  /* 헤더 높이를 제외한 나머지 높이 */
+    height: calc(100% - 113px);  /* 헤더 높이를 제외한 나머지 높이 */
     overflow: hidden;
 }
 
