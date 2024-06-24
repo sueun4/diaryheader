@@ -42,8 +42,12 @@ html, body {
     overflow: hidden;
 }
 
-.left-panel, .right-panel {
+.left-panel{
+    overflow: hidden;
+}
+.right-panel {
     overflow-y: auto;
+    
 }
 
 .left-panel {
